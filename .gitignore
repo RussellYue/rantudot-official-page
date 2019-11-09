@@ -1,7 +1,0 @@
-node_modules/
-dist/
-out/
-.DS_Store
-yarn.lock
-server.js
-1.html
