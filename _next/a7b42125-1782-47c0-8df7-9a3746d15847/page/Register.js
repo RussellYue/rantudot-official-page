@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/Register",function(){return{page:webpackJsonp([8],{496:function(e,t,n){e.exports=n(497)},497:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n(1),u=n.n(r);t.default=function(){return u.a.createElement("div",null,"Register page here")}}},[496]).default}});

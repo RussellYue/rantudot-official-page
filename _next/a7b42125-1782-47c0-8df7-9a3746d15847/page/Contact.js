@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/Contact",function(){return{page:webpackJsonp([9],{488:function(e,t,n){e.exports=n(489)},489:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n(1),o=n.n(u);t.default=function(){return o.a.createElement("div",null,"Contact page here")}}},[488]).default}});

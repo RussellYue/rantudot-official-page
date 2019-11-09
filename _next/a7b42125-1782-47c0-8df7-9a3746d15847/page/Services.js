@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/Services",function(){return{page:webpackJsonp([7],{498:function(e,t,n){e.exports=n(499)},499:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n(1),u=n.n(r);t.default=function(){return u.a.createElement("div",{className:"index"},"services page here")}}},[498]).default}});
